@@ -16,3 +16,13 @@
 	top: 0;
 	left: 0;
 }
+
+#third-section .second-img {
+	background-image: url(../../img/bg-quote.jpg);
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	padding: 50vh 0;
+	color: white;
+	text-align: center;
+}
