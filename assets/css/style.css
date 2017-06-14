@@ -17,6 +17,41 @@
 	left: 0;
 }
 
+#second-section h1, h4, hr {
+	text-align: center;
+	color: black;
+}
+
+#second-section i {
+    font-size: 40px ;
+    padding: 15px;
+    margin: 5px 5px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    color: black;
+    text-align: center;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 2px;
+    border: 1px;
+    border-top: 1px solid #eee;
+}
+
+#second-section hr {
+    margin-top: 0;
+    margin-bottom: 2px;
+    border: 1px;
+    border-top: 1px solid black;
+
+}
+
+
 #third-section .second-img {
 	background-image: url(../../img/bg-quote.jpg);
 	background-size: cover;
@@ -26,3 +61,27 @@
 	color: white;
 	text-align: center;
 }
+
+#third-section h4 {
+	color: white;
+}
+
+#third-section h2 {
+	font-size: 36px;
+}
+
+#third-section h4 {
+	font-size: 40px;
+}
+
+#fourth-section {
+	text-align: center;
+	font-size: 36px;
+	background-color: #f7f7f7;
+
+}
+
+
+
+
+
